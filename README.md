@@ -1,8 +1,10 @@
 # gmail-attack
 #you also need use python3
 #How can you use it
-
+#use the script termux or linux 
 #use python3 g-attack.py
+#First on the less sucure app your gmail account..
+https://myaccount.google.com/lesssecureapps?pli=1
 
 #first login your gmail account....
 
