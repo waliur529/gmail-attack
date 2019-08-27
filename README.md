@@ -12,4 +12,4 @@
 
 VISIT MORE ON YOUTUBE:https://www.youtube.com/channel/UCgGExmjNQ79B-lU96J5VZvg
 
-MADE_BY: TEAM BANGLADESH{we are AnOnYmOuSe}
+MADE_BY:     TEAM BANGLADESH  {we are AnOnYmOuSe}
